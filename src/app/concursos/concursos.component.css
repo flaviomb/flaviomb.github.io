@@ -1,0 +1,27 @@
+
+
+h3 {
+  margin-top: 80px;
+  text-align: center;
+}
+
+td {
+  font-size: 16pt;
+  text-align: center;
+}
+
+th {
+  font-size: 20pt;
+}
+
+
+.tabela {
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+p {
+  text-align: center;
+}
