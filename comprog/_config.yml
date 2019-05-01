@@ -17,8 +17,8 @@ title: Competitive Programming Blog!
 email: eng.flavio94@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is about competitive programming! We will post everything about data structures, problem solving and everything related to the competitive programming world!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://comprog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "comprog" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: flaviomb
 github_username:  flaviomb
 
